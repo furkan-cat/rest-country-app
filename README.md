@@ -23,10 +23,13 @@ Rest country app with filtered search input
 
 #### JavaScript Used
 * Filter
+* Switch
+* Keyup
+* .join("")
 * DOM Manipulation
 * addEventListener
 * FETCH
-* AJAX
+* Async/await
 * Chainin Method
 
 ### Built With
