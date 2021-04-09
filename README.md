@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Type value to see currency from USD Dollar to EUR,TRY,RUB,UAH. I also added window.onload to fire getDataOnload() function to show you guys 1 dollar currency immediately when page is loaded. If you want to type another value so you can do it by yourself. For some reason AJAX is not working in Internet but in local it's ok! So please download files to check project
+Rest country app with filtered search input
 
 [Project-Link](https://rest-country-app.netlify.app/)
 
@@ -40,7 +40,7 @@ Type value to see currency from USD Dollar to EUR,TRY,RUB,UAH. I also added wind
 
 Furkan Çat - [@FurkanCat](https://twitter.com/FurkanCat) - furi544@gmail.com
 
-Project Link: [Project Link](https://github.com/InsomniumFerum/currency-converter-app)
+Project Link: [Project Link](https://github.com/InsomniumFerum/rest-country-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
