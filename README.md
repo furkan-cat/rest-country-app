@@ -28,12 +28,12 @@ Rest country app with filtered search input
 * FETCH
 * AJAX
 * Chainin Method
-* 
+
 ### Built With
 * [Javascipt](https://www.javascript.com/)
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
-* [Bootstrap] (https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 <!-- CONTACT -->
 ## Contact
