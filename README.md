@@ -17,7 +17,7 @@
 ## About The Project
 Rest country app with filtered search input
 
-[Project-Link](https://rest-country-app.netlify.app/)
+[Project-Demo](https://rest-country-app.netlify.app/)
 
 <img src="images/project.png">
 
